@@ -1,2 +1,2 @@
-# LanguagesRepo
-This repo will save all the files of the LanguagesRepo web page
+LanguagesWP
+LanguagesWP is a web page where I'll upload simple information to learn new languages
